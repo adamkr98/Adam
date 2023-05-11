@@ -1,7 +1,8 @@
 # Hi my name's Adam Krynski, and I'm an apprentice <i>Junior Web Developper</i>.
 ## 
 ## My <b>three</b> things you like the most in this universe:
-## *CLASSICAL MUSIC/Art <br> *obviOUsly front-end <br> *Cooking
+## *CLASSICAL MUSIC/ART <br> *ObviOUsly front-end <br> *Cooking
+## My objectives that I want to achieve as a developer during <b><i>Becode</b></i>:
 ## Learn JavaScript, php and some other programmer languages as well as perfect my team skills and become a good programmer.
 ## DIffIculTy LeveL JOB finding/internship
 ## Learning JS
