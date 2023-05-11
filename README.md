@@ -7,7 +7,7 @@
 ## My fears:
 ## Starting an array at <b><i>[1]</b></i> haha <br> DIffIculTy LeveL <br> JOB/internship finding.
 ## The things that I look forward to:
-## Learning JS  PHP  and a lot more :)
+## Learning JS, PHP  and a lot more :)
 ## Three things that I value the most to work as a team
 ## *Kidness *Organisation *Problem solving mindset
 ## ![css-ie](https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)
