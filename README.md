@@ -1,4 +1,4 @@
-# Hi my name's Adam Krynski, and I'm an apprentice Junior Web Developper.
+# Hi my name's Adam Krynski, and I'm an apprentice <i>Junior Web Developper</i>.
 ## 
 ##
 ## *CLASSICAL MUSIC/Art *obviOUsly front-end *Cooking
