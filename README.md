@@ -5,7 +5,7 @@
 ## My objectives that I want to achieve as a developer during <b><i>Becode</b></i>:
 ## Learn JavaScript, php and some other programming languages as well as to perfect my team skills and become a good programmer.
 ## My fears:
-## Starting an array at <span style="color:red;">[1]</span> haha DIffIculTy LeveL <br> JOB finding/internship
+## Starting an array at <b><i> [1] </b></i> haha DIffIculTy LeveL <br> JOB finding/internship
 ## The things that I look forward to:
 ## Learning JS  PHP  and a lot more :)
 ## Three things that I value the most to work as a team
