@@ -10,7 +10,7 @@
 ## Learning JS  PHP  and a lot more :)
 ## Three things that I value the most to work as a team
 ## *Kidness *Organisation *Problem solving mindset
-## ![css-ie]([https://github.com/adamkr98/Adam/assets/119297879/31523dfc-ca89-4ccd-b558-efffa53bff0a.](https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif))
+## ![css-ie](https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)
 Profile
 A title with your name and your occupation
 A first paragraph explaining who you are (no need to get too serious! :))
