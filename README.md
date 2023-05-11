@@ -3,7 +3,7 @@
 ## My <b>three</b> things I like the most in this universe:
 ## *CLASSICAL MUSIC/ART <br> *ObviOUsly front-end <br> *Cooking
 ## My objectives that I want to achieve as a developer during <b><i>Becode</b></i>:
-## Learn JavaScript, php and some other programmer languages as well as perfect my team skills and become a good programmer.
+## Learn JavaScript, php and some other programming languages as well as to perfect my team skills and become a good programmer.
 ## My fears:
 ## Starting an array at <h6>[1]</h6> haha DIffIculTy LeveL <br> JOB finding/internship
 ## The things that I look forward to:
