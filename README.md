@@ -10,7 +10,7 @@
 ## Learning JS  PHP  and a lot more :)
 ## Three things that I value the most to work as a team
 ## *Kidness *Organisation *Problem solving mindset
-## 
+## (https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)
 Profile
 A title with your name and your occupation
 A first paragraph explaining who you are (no need to get too serious! :))
