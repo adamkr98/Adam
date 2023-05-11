@@ -11,7 +11,7 @@
 ## Three things that I value the most to work as a team:
 ## *Kidness *Organisation *Problem solving mindset
 ## ![css-ie](https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)
-[css-ie](https://media.tenor.com/6wKsTgDLxiYAAAAM/kushchenko-dev.gif)
+![css-ie](https://media.tenor.com/6wKsTgDLxiYAAAAM/kushchenko-dev.gif)
 Profile
 A title with your name and your occupation
 A first paragraph explaining who you are (no need to get too serious! :))
