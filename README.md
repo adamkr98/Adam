@@ -5,7 +5,7 @@
 ## My objectives that I want to achieve as a developer during <b><i>Becode</b></i>:
 ## Learn JavaScript, php and some other programming languages as well as to perfect my team skills and become a good programmer.
 ## My fears:
-## *Starting an array at <b><i>[1]</b></i> haha <br> *DIffIculTy LeveL <br> *JOB/internship finding.
+## *Starting an array at <b><i>[1]</b></i> haha <br> *DIffIculTy LeveL <br> *JOB/internship finding <br> As well one other think but I suppose if I write it down then every one will try to "help me" with it .....
 ## The things that I look forward to:
 ## *Learning JS, PHP  and a lot more :)
 ## Three things that I value the most to work as a team:
