@@ -14,7 +14,7 @@
 ## *Kidness *Organisation *Problem solving mindset
 ## ![css-ie](https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)
 ![css-ie](https://media.tenor.com/6wKsTgDLxiYAAAAM/kushchenko-dev.gif)
-##this lines comes from my pc
+
 
 
 
