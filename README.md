@@ -1,5 +1,5 @@
 # Hi my name's Adam Krynski, and I'm an apprentice <i>Junior Web Developper</i>.
-## I'm a CSS Magician XD but to be 
+## I'm a CSS Magician XD but to be serious
 ## My most suprising skills:
 ## I can do a 300 pieces swan out of paper, I dont know...??
 ## My <b>three</b> things I like the most in this universe:
