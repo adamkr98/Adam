@@ -3,7 +3,8 @@
 ## My most suprising skills:
 ## I can do a 300 pieces swan out of paper, I dont know what else :man_shrugging:...??
 ## My <b>three</b> things I like the most in this universe:
-## *CLASSICAL MUSIC/ART <br> *ObviOUsly front-end <br> *Cooking
+## *:notes:CLASSICAL MUSIC/ART <br> *:computer:ObviOUsly front-end <br> *:hocho:
+:knife:Cooking
 ## My objectives that I want to achieve as a developer during <b><i>Becode</b></i>:
 ## Learn JavaScript, php and some other programming languages as well as to perfect my team skills and become a good programmer.
 ## My fears:
