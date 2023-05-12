@@ -20,8 +20,3 @@
 ## This is the last line from the local repo
 ## I added this line with vim on my local repo
 
-## Last line from online repo
-## Second line from online repo
-## Second line from local repo
-## Third line from online repo
-## third line from local repo
